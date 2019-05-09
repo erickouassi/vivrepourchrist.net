@@ -11,3 +11,7 @@ Theme & plugins update
 
 Theme & plugins update
 
+* 5/8/2019
+
+Manual plugins update
+
