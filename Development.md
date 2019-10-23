@@ -29,3 +29,6 @@ Short paragraph added
 
 Manual plugins update
 
+* 10/22/2019
+
+Site under construction
